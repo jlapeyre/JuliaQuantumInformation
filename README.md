@@ -23,7 +23,7 @@ If you don't have time to make a pull request, please open an issue.
 
 * [TutorialForPhysicists.jl](https://rogerluo.me/TutorialForPhysicists.jl/latest/toolchain/index.html) (11 2019) including lists
 of packages for physics. The [gihub page](https://github.com/Roger-luo/TutorialForPhysicists.jl). The author says
-1) this is out of date and 2) See [this](https://juliaphysics.github.io/latest/index.html)
+1) this is out of date and 2) See [this](https://juliaphysics.github.io/latest/index.html).
 
 ## Organizations
 
@@ -52,9 +52,11 @@ of packages for physics. The [gihub page](https://github.com/Roger-luo/TutorialF
 ### [QuantumBFS](https://github.com/QuantumBFS)
   *A group of quantum developers around Bao Fu Si (Temple).*
 
+The QuantumBFS org maintains a mostly integrated set of about 20 packages for quantum computaion.
+They are centered around [Yao.jl](https://github.com/QuantumBFS/Yao.jl).
+
 * [Yao.jl](https://github.com/QuantumBFS/Yao.jl) (03 2020) - *Extensible, Efficient Quantum Algorithm Design for Humans.*
   [yaoquantum.org](http://yaoquantum.org/).
-* TODO add more detail here
 
 ### [Jutho](https://github.com/Jutho)
 
