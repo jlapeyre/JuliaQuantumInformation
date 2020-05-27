@@ -114,6 +114,7 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 * [TensorNetworkAD.jl](https://github.com/under-Peter/TensorNetworkAD.jl) (08 2019) - *Algorithms that combine tensor network methods with automatic differentiation.*
 * [Einsum.jl](https://github.com/ahwillia/Einsum.jl) (02 2019) - *Einstein summation notation*
 * [Tullio.jl](https://github.com/mcabbott/Tullio.jl) (05 2020)
+* [MERA.jl](https://github.com/mhauru/MERA.jl) (04 2020) - *some basic Multiscale Entaglement Renormalization Ansatz algorithms*
 
 ### Quantum Chemistry
 
