@@ -97,9 +97,6 @@ The following are used to model super-conducting architectures.
 
 Superconducting qubits and quantum resonators
 
-### [JuliaQuantum](https://github.com/JuliaQuantum)
-
-Last activity (12 2016)
 
 ## Topics
 
@@ -129,6 +126,17 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 ### Mathematics
 
 * [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) (05 2020) - *⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex*
+
+
+## Unmaintained, deprecated, etc. packages and projects
+
+The date of last activity is shown in parentheses.
+
+* [JuliaQuantum](https://github.com/JuliaQuantum) (12 2016)
+* [TensorToolbox.jl](https://github.com/Jutho/TensorToolbox.jl) (09 2017)
+   See the author Jutho's [replacement packages]((https://github.com/Jutho)
+* [NCon.jl](https://github.com/mhauru/NCon.jl) recommended replacement: [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl)
+
 
 <!-- ## Organizations -->
 
