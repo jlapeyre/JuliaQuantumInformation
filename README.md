@@ -80,7 +80,9 @@ If you don't have time to make a pull request, please open an issue.
 * [QSWalk.jl](https://github.com/iitis/QSWalk.jl) (04 2020) - *simulating the evolution of open quantum systems on graphs.*
 
 
-### [JuliaQuantum](https://github.com/JuliaQuantum) (12 2016)
+### [JuliaQuantum](https://github.com/JuliaQuantum)
+
+Last activity (12 2016)
 
 ## Topics
 
