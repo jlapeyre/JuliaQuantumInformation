@@ -88,6 +88,11 @@ The following are used to model super-conducting architectures.
 * [DiscretePDEs.jl](https://github.com/rigetti/DiscretePDEs.jl) (10 2019) - *Partial differential equations using Discrete Exterior Calculus*
 * [DiscreteExteriorCalculus.jl](https://github.com/rigetti/DiscreteExteriorCalculus.jl) (10 2019) - *Discrete differential geometry on simplicial complexes*
 
+
+### [PainterQubits](https://github.com/PainterQubits)
+
+Superconducting qubits and quantum resonators
+
 ### [JuliaQuantum](https://github.com/JuliaQuantum)
 
 Last activity (12 2016)
