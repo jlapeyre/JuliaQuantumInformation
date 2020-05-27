@@ -115,7 +115,6 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 * [Einsum.jl](https://github.com/ahwillia/Einsum.jl) (02 2019) - *Einstein summation notation*
 * [Tullio.jl](https://github.com/mcabbott/Tullio.jl) (05 2020)
 
-
 ### Quantum Chemistry
 
 * [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) (05 2020) - *A workbench for Quantum Chemistry and Quantum Physics.*
@@ -123,6 +122,10 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 ### Simulation
 
 * [Schrodinger.jl](https://github.com/jebej/Schrodinger.jl) (04 2020) - *Fast and easy simulation of quantum mechanical systems.*
+
+### Mathematics
+
+* [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) (05 2020) - *⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex*
 
 <!-- ## Organizations -->
 
