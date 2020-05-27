@@ -116,9 +116,6 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 * [Tullio.jl](https://github.com/mcabbott/Tullio.jl) (05 2020)
 * [MERA.jl](https://github.com/mhauru/MERA.jl) (04 2020) - *some basic Multiscale Entaglement Renormalization Ansatz algorithms*
 
-### Quantum Chemistry
-
-* [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) (05 2020) - *A workbench for Quantum Chemistry and Quantum Physics.*
 
 ### Simulation of Quantum Computers
 
@@ -129,6 +126,15 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 * [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) (05 2020) - *⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex*
 
 
+### Quantum Chemistry
+
+* [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) (05 2020) - *A workbench for Quantum Chemistry and Quantum Physics.*
+
+### Molecular and protein dynamics, etc.
+
+* [Molly.jl](https://github.com/jgreener64/Molly.jl) (05 2020) - *Molecular dynamics*
+* [ProteinEnsembles.jl](https://github.com/jgreener64/ProteinEnsembles.jl) (10 2019) - *Generate and perturb protein structural ensembles using the ExProSE algorithm*
+
 ## Unmaintained, deprecated, etc. packages and projects
 
 The date of last activity is shown in parentheses.
@@ -137,11 +143,3 @@ The date of last activity is shown in parentheses.
 * [TensorToolbox.jl](https://github.com/Jutho/TensorToolbox.jl) (09 2017)
    See the author Jutho's [replacement packages]((https://github.com/Jutho)
 * [NCon.jl](https://github.com/mhauru/NCon.jl) recommended replacement: [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl)
-
-
-<!-- ## Organizations -->
-
-<!-- * [BBNQ](https://github.com/BBN-Q) – Raytheon BBN Technologies - Quantum Group -->
-<!-- * [QuantumBFS](https://github.com/QuantumBFS) - *A group of quantum developers around Bao Fu Si (Temple).* -->
-<!--   Several Julia packages. Perhaps list them all here. -->
-<!-- * [QOJulia](https://github.com/qojulia) - quantum optics Julia -->
