@@ -21,8 +21,9 @@ If you don't have time to make a pull request, please open an issue.
 
 ### See Also
 
-* [TutorialForPhysicists.jl](https://rogerluo.me/TutorialForPhysicists.jl/latest/toolchain/index.html) including lists
- of packages for physics.
+* [TutorialForPhysicists.jl](https://rogerluo.me/TutorialForPhysicists.jl/latest/toolchain/index.html) (11 2019) including lists
+of packages for physics. The [gihub page](https://github.com/Roger-luo/TutorialForPhysicists.jl). The author says
+1) this is out of date and 2) See [this](https://juliaphysics.github.io/latest/index.html)
 
 ## Organizations
 
