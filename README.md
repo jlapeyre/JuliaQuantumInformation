@@ -119,7 +119,7 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 
 * [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) (05 2020) - *A workbench for Quantum Chemistry and Quantum Physics.*
 
-### Simulation
+### Simulation of Quantum Computers
 
 * [Schrodinger.jl](https://github.com/jebej/Schrodinger.jl) (04 2020) - *Fast and easy simulation of quantum mechanical systems.*
 
