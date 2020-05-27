@@ -58,7 +58,7 @@ They are centered around [Yao.jl](https://github.com/QuantumBFS/Yao.jl).
 * [Yao.jl](https://github.com/QuantumBFS/Yao.jl) (03 2020) - *Extensible, Efficient Quantum Algorithm Design for Humans.*
   [yaoquantum.org](http://yaoquantum.org/).
 
-### [Jutho](https://github.com/Jutho)
+### [Jutho](https://github.com/Jutho) Jutho Haegeman's tensor code
 
 * [TensorOperations.jl](https://github.com/Jutho/TensorOperations.jl) (05 2020) - *tensor contractions and related operations.*
 * [WignerSymbols.jl](https://github.com/Jutho/WignerSymbols.jl) (02 2020) - *computing Wigner symbols and related quantities.*
