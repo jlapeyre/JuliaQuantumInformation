@@ -80,6 +80,14 @@ If you don't have time to make a pull request, please open an issue.
 * [QSWalk.jl](https://github.com/iitis/QSWalk.jl) (04 2020) - *simulating the evolution of open quantum systems on graphs.*
 
 
+### [Rigetti](https://github.com/rigetti)
+
+The following are used to model super-conducting architectures.
+
+* [AdmittanceModels.jl](https://github.com/rigetti/AdmittanceModels.jl) (12 2019)  - *Analysis of linear systems using admittance models*
+* [DiscretePDEs.jl](https://github.com/rigetti/DiscretePDEs.jl) (10 2019) - *Partial differential equations using Discrete Exterior Calculus*
+* [DiscreteExteriorCalculus.jl](https://github.com/rigetti/DiscreteExteriorCalculus.jl) (10 2019) - *Discrete differential geometry on simplicial complexes*
+
 ### [JuliaQuantum](https://github.com/JuliaQuantum)
 
 Last activity (12 2016)
