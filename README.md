@@ -53,6 +53,7 @@ If you don't have time to make a pull request, please open an issue.
 
 * [Yao.jl](https://github.com/QuantumBFS/Yao.jl) (03 2020) - *Extensible, Efficient Quantum Algorithm Design for Humans.*
   [yaoquantum.org](http://yaoquantum.org/).
+* TODO add more detail here
 
 ### [Jutho](https://github.com/Jutho)
 
