@@ -94,7 +94,7 @@ The following are used to model super-conducting architectures.
 
 ### [PainterQubits](https://github.com/PainterQubits)
 
-Superconducting qubits and quantum resonators
+Superconducting qubits and quantum resonators. The majority of these packages were last updated no later than (05 2019)
 
 
 ## Topics
