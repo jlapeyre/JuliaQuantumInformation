@@ -129,9 +129,13 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 ### Quantum Chemistry
 
 * [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) (05 2020) - *A workbench for Quantum Chemistry and Quantum Physics.*
+* [DFTK](https://github.com/JuliaMolSim/DFTK.jl/) (06 2020) - *Density-functional toolkit* *is a library of Julia routines for experimentation
+   with plane-wave density-functional theory (DFT), as implemented in much larger production codes such as Abinit, Quantum Espresso and VASP.*
 
 ### Molecular and protein dynamics, etc.
 
+* [JuliaMolSim](https://github.com/JuliaMolSim) (06 2020) - *Molecular Simulation in Julia*.
+  Note that [DFTK](https://github.com/JuliaMolSim/DFTK.jl/), listed above, is in this org.
 * [Molly.jl](https://github.com/jgreener64/Molly.jl) (05 2020) - *Molecular dynamics*
 * [ProteinEnsembles.jl](https://github.com/jgreener64/ProteinEnsembles.jl) (10 2019) - *Generate and perturb protein structural ensembles using the ExProSE algorithm*
 
