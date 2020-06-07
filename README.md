@@ -10,9 +10,9 @@ If you don't have time to make a pull request, please open an issue.
 
 ### Notes
 
-* The names of these packages typically end in `.jl`. Sometimes this ending is omitted below.
-  In particular, it is included to distinguish packages from
-  similarly-named non-Julia packages. TODO: use `.jl` uniformly.
+* The names of these packages typically end in `.jl`.
+  In particular, the suffix is included to distinguish packages from
+  similarly-named non-Julia packages.
 * The date of the most recent development activity appears just after the name of the package.
 * Blurbs taken from the sites should be in italics (asterisks in markdown)
 * Packages that support quantum information packages (e.g. tensor packages) are included here.
@@ -29,14 +29,14 @@ of packages for physics. The [gihub page](https://github.com/Roger-luo/TutorialF
 
 ### [BBN-Q](https://github.com/BBN-Q) ([BBN Technologies](https://www.raytheon.com/capabilities/products/quantum))
 
-* [Cliffords](https://github.com/BBN-Q/Cliffords.jl) (04 2020) - *Efficient calculation of Clifford circuits.*
-* [QuantumTomography](https://github.com/BBN-Q/QuantumTomography.jl) (05 2020) - *Quantum state- and process tomography.*
+* [Cliffords.jl](https://github.com/BBN-Q/Cliffords.jl) (04 2020) - *Efficient calculation of Clifford circuits.*
+* [QuantumTomography.jl](https://github.com/BBN-Q/QuantumTomography.jl) (05 2020) - *Quantum state- and process tomography.*
 * [QGL.jl](https://github.com/BBN-Q/QGL.jl) (04 2018) - *A performance orientated QGL compiler.*
   This is a Julia reimplemenation of
-  [QGL](https://github.com/BBN-Q/QGL) (05 2020) (Quantum Gate Language), a python library.
+  [QGL.jl](https://github.com/BBN-Q/QGL) (05 2020) (Quantum Gate Language), a python library.
 * [MESolve.jl](https://github.com/BBN-Q/MESolve.jl) (05 2020) - *Master Equation Solver.*
 * [QuantumInfo.jl](https://github.com/BBN-Q/QuantumInfo.jl) (04 2020) - *Library for quantum information related calculations.*
-* [QSimulator](https://github.com/BBN-Q/QSimulator.jl) (11 2019) - *Unitary and Lindbladian evolution.*
+* [QSimulator.jl](https://github.com/BBN-Q/QSimulator.jl) (11 2019) - *Unitary and Lindbladian evolution.*
 * [RandomQuantum.jl](https://github.com/BBN-Q/RandomQuantum.jl) (12 2019) - *Package for generating
   random quantum states and processes according to a number of natural distributions.*
 * [PAPA.jl](https://github.com/BBN-Q/PAPA.jl) (12 2019) - *PAirwise Perturbative Ansatz for Better Estimation And Runtime.*
@@ -46,7 +46,7 @@ of packages for physics. The [gihub page](https://github.com/Roger-luo/TutorialF
 
 #### Quantum computing hardware
 
-* [Qlab](https://github.com/BBN-Q/Qlab.jl) (05 2020) - *Generic lab tools.*
+* [Qlab.jl](https://github.com/BBN-Q/Qlab.jl) (05 2020) - *Generic lab tools.*
 * [Instruments.jl](https://github.com/BBN-Q/Instruments.jl) (05 2020) - *Instrument Control.*
 
 ### [QuantumBFS](https://github.com/QuantumBFS)
@@ -92,7 +92,6 @@ The following are used to model super-conducting architectures.
 * [DiscretePDEs.jl](https://github.com/rigetti/DiscretePDEs.jl) (10 2019) - *Partial differential equations using Discrete Exterior Calculus*
 * [DiscreteExteriorCalculus.jl](https://github.com/rigetti/DiscreteExteriorCalculus.jl) (10 2019) - *Discrete differential geometry on simplicial complexes*
 
-
 ### [PainterQubits](https://github.com/PainterQubits)
 
 Superconducting qubits and quantum resonators
@@ -129,13 +128,13 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 ### Quantum Chemistry
 
 * [QuantumLab.jl](https://github.com/vonDonnerstein/QuantumLab.jl) (05 2020) - *A workbench for Quantum Chemistry and Quantum Physics.*
-* [DFTK](https://github.com/JuliaMolSim/DFTK.jl/) (06 2020) - *Density-functional toolkit* *is a library of Julia routines for experimentation
+* [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl/) (06 2020) - *Density-functional toolkit* *is a library of Julia routines for experimentation
    with plane-wave density-functional theory (DFT), as implemented in much larger production codes such as Abinit, Quantum Espresso and VASP.*
 
 ### Molecular and protein dynamics, etc.
 
 * [JuliaMolSim](https://github.com/JuliaMolSim) (06 2020) - *Molecular Simulation in Julia*.
-  Note that [DFTK](https://github.com/JuliaMolSim/DFTK.jl/), listed above, is in this org.
+  Note that [DFTK.jl](https://github.com/JuliaMolSim/DFTK.jl/), listed above, is in this org.
 * [Molly.jl](https://github.com/jgreener64/Molly.jl) (05 2020) - *Molecular dynamics*
 * [ProteinEnsembles.jl](https://github.com/jgreener64/ProteinEnsembles.jl) (10 2019) - *Generate and perturb protein structural ensembles using the ExProSE algorithm*
 
