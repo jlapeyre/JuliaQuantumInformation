@@ -96,6 +96,9 @@ The following are used to model super-conducting architectures.
 
 Superconducting qubits and quantum resonators. The majority of these packages were last updated no later than (05 2019)
 
+## Utilities
+
+* [ILog2](https://github.com/jlapeyre/ILog2.jl) a fast implementation integer-valued, base 2 logarithm
 
 ## Topics
 
@@ -109,7 +112,7 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 * [Tensors.jl](https://github.com/KristofferC/Tensors.jl) (02 2020) - *Efficient computations with symmetric and non-symmetric tensors with support for automatic differentiation.* The author [says](https://discourse.julialang.org/t/comparison-of-tensor-packages/11425/2?u=jlapeyre) this is
  for real tensors. So quantum applications may be limited. Or the author may say "real" for "genuine".
 * [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) (05 2020) - *It slices, it dices, it splices!*
-* [OMEinsum.jl](https://github.com/under-Peter/OMEinsum.jl) (04 2020) - *One More Einsum for Julia! With runtime order-specification and high-level adjoints for AD*
+* [OMEinsum.jl](https://github.com/under-Peter/OMEinsum.jl) (06 2020) - *One More Einsum for Julia! With runtime order-specification and high-level adjoints for AD*
 * [TensorNetworkAD.jl](https://github.com/under-Peter/TensorNetworkAD.jl) (08 2019) - *Algorithms that combine tensor network methods with automatic differentiation.*
 * [Einsum.jl](https://github.com/ahwillia/Einsum.jl) (02 2019) - *Einstein summation notation*
 * [Tullio.jl](https://github.com/mcabbott/Tullio.jl) (05 2020)
@@ -123,7 +126,6 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 ### Mathematics
 
 * [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) (05 2020) - *⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex*
-
 
 ### Quantum Chemistry
 
