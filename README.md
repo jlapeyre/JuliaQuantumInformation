@@ -84,6 +84,17 @@ They are centered around [Yao.jl](https://github.com/QuantumBFS/Yao.jl).
 * [QSWalk.jl](https://github.com/iitis/QSWalk.jl) (04 2020) - *simulating the evolution of open quantum systems on graphs.*
 
 
+### [Matteo AC Rossi](https://github.com/matteoacrossi)
+
+* [QContinuousMeasurement.jl](https://github.com/matteoacrossi/QContinuousMeasurement.jl) (11 2020) 
+* [ContinuousMeasurementFI](https://github.com/matteoacrossi/ContinuousMeasurementFI) (05 2018) Fisher information for magnetometry and frequency
+estimation with continuously monitored spin systems, with independent Markovian noise acting on each spin.
+* [QuasiHamiltonianRTN](https://github.com/matteoacrossi/QuasiHamiltonianRTN.jl) (11 2018) evaluating the dynamics of a quantum
+system affected by one or more sources of random telegraph noise 
+* [ExpmV.jl](https://github.com/matteoacrossi/ExpmV.jl) function for computing `expm(t*A)*v` when `A` is sparse, without explicitly computing `expm(A)`
+(Based on original by Marcus P da Silva)
+* [QuantumSpatialSearch](https://github.com/matteoacrossi/QuantumSpatialSearch) (11 2018)
+
 ### [Rigetti](https://github.com/rigetti)
 
 The following are used to model super-conducting architectures.
