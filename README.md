@@ -133,6 +133,7 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 ### Simulation of Quantum Computers
 
 * [Schrodinger.jl](https://github.com/jebej/Schrodinger.jl) (04 2020) - *Fast and easy simulation of quantum mechanical systems.*
+* [QuantumClifford.jl](https://github.com/Krastanov/QuantumClifford.jl) (02 2021) - *High-performance simulator of Clifford circuits using the Stabilizer / Tableau formalism and extensions.*
 
 ### Mathematics
 
