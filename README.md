@@ -65,6 +65,8 @@ They are centered around [Yao.jl](https://github.com/QuantumBFS/Yao.jl).
 * [LinearMaps.jl](https://github.com/Jutho/LinearMaps.jl) (04 2020) - *defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.*
 * [TensorKit.jl](https://github.com/Jutho/TensorKit.jl) (05 2020) - *large-scale tensor computations, with a hint of category theory*
 
+### [JuliaQX](https://github.com/JuliaQX) (05 2021) Quantum Circuits using tensor networks
+
 ### [ITensor](https://github.com/ITensor)
 
 * [ITensors.jl](https://github.com/ITensor/ITensors.jl) (05 2020) - *efficient tensor computations and tensor network calculations*
