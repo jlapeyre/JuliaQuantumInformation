@@ -95,6 +95,10 @@ The following are used to model super-conducting architectures.
 
 ## Topics
 
+### Optimal Quantum Control
+
+* [JuliaQuantumControl](https://github.com/JuliaQuantumControl) (11 2021) - *packages implementing a comprehensive collection of methods of open-loop quantum optimal control.*
+
 ### Simulation of Quantum Computers
 
 * [PastaQ.jl](https://github.com/GTorlai/PastaQ.jl) (06 2021) - *PastaQ is a julia package for simulating and benchmarking quantum computers using a combination of machine learning and tensor network algorithms.*
@@ -113,7 +117,7 @@ The following are used to model super-conducting architectures.
 
 ### Utilities
 
-* [ILog2](https://github.com/jlapeyre/ILog2.jl) (05 2021) a fast implementation integer-valued, base 2 logarithm
+* [ILog2](https://github.com/jlapeyre/ILog2.jl) (10 2021) a fast implementation integer-valued, base 2 logarithm
 
 ### Tensors
 
@@ -130,6 +134,7 @@ Here is [discussion on tensor packages](https://discourse.julialang.org/t/compar
 * [Einsum.jl](https://github.com/ahwillia/Einsum.jl) (02 2019) - *Einstein summation notation*
 * [Tullio.jl](https://github.com/mcabbott/Tullio.jl) (05 2021)
 * [MERA.jl](https://github.com/mhauru/MERA.jl) (11 2020) - *some basic Multiscale Entaglement Renormalization Ansatz algorithms*
+* [SweepContractor.jl](https://github.com/chubbc/SweepContractor.jl) (10 2021) - *Tensor network contraction algorithm*
 
 ### Quantum Algebra
 
