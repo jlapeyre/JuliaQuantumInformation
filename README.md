@@ -115,6 +115,8 @@ The following are used to model super-conducting architectures.
 
 #### [Schrodinger.jl](https://github.com/jebej/Schrodinger.jl) (05 2021) - *Fast and easy simulation of quantum mechanical systems.*
 
+#### [PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl) (11 2024) - *Quantum many body systems with Pauli strings*
+
 ### Utilities
 
 * [ILog2](https://github.com/jlapeyre/ILog2.jl) (10 2021) a fast implementation integer-valued, base 2 logarithm
