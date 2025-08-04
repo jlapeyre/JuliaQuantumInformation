@@ -120,6 +120,8 @@ The following are used to model super-conducting architectures.
 ### Utilities
 
 * [ILog2](https://github.com/jlapeyre/ILog2.jl) (10 2021) a fast implementation integer-valued, base 2 logarithm
+* [QuantumCircuitDraw.jl](https://github.com/nicolasloizeau/QuantumCircuitDraw.jl) (01 2025) Plot quantum circuits in Qiskit style.
+
 
 ### Tensors
 
